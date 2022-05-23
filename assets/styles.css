@@ -84,6 +84,21 @@ input[type=button] {
   text-align: center;  
   font-size: 16px;  
 }  
-input[type=button]:hover{  
+input[type=button]:hover {  
  background-color: #003669;  
-} 
+}   
+/* styles for the results section */
+#age {  
+ display: block;  
+ margin: 10px;  
+ margin-top: 35px;  
+ padding: 10px;  
+ padding-bottom: 20px;  
+ overflow: hidden;  
+ font-family: verdana;  
+ font-size: 23px;  
+ font-weight: normal;  
+ line-height: 1.5;  
+ word-spacing: 2.7px;  
+ color: navy;  
+}
