@@ -70,3 +70,20 @@ body {
   color: #1073d0;  
   font-size: 17px;
 }
+/* styling the button input field */   
+input[type=button] {  
+  width: 150px;  
+  margin-left: 35%;  
+  margin-top: 40px;  
+  outline: none;  
+  border: none;  
+  border-radius: 2px;  
+  background-color: #0761b6;  
+  color: #ffffff;  
+  padding: 14px 16px;  
+  text-align: center;  
+  font-size: 16px;  
+}  
+input[type=button]:hover{  
+ background-color: #003669;  
+} 
