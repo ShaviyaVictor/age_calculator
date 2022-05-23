@@ -46,3 +46,14 @@ body {
   font-size: 34px;  
   color: navy;  
 }
+/* styles for the input labels */  
+.title {  
+  font-size: 20px;  
+  text-align: left;  
+  font-family: sans-serif;  
+  font-weight: normal;  
+  line-height: 0.5;  
+  letter-spacing: 0.5px;  
+  word-spacing: 2.7px;  
+  color: #1073d0;  
+}
