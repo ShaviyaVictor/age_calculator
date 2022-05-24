@@ -8,4 +8,8 @@ function age() {
   var d2 = date.getDate();
   var m2 = 1 + date.getMonth();
   var y2 = date.getFullYear();
+  // logic
+  var month = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+
+  
 }
