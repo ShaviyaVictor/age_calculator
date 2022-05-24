@@ -19,5 +19,8 @@ function age() {
     m2 = m2 + 12;
     y2 = y2 - 1;
   };
-  
+  // variables of the calculated timeframes
+  var d = d2 - d1;
+  var m = m2 -m1;
+  var y = y2 - y1;
 }
