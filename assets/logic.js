@@ -23,4 +23,6 @@ function age() {
   var d = d2 - d1;
   var m = m2 -m1;
   var y = y2 - y1;
+  // inputting the results to the DOM
+  document.getElementById('age').innerHTML = 'Your are '+y+' Years, '+m+' Months and '+d+' Days.';
 }
